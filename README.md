@@ -9,12 +9,4 @@ Post Response Body:
 
 Output of processing audio and generating transcript:
 
-processing
-processing
-processing
-processing
-processing
-processing
-completed
-Transcription completed!
-The stale smell of old beer lingers. It takes heat to bring out the odor. A cold dip restores health and zest. A salt pickle tastes fine with ham tacos al pastor are my favorite. A zestful food is the hot cross bun.
+<img width="1001" alt="Screen Shot 2023-10-07 at 8 12 14 PM" src="https://github.com/avi20025/Speech-Converter/assets/100166555/8d119700-5943-4d2b-a1dd-3eaae3a34d94">
