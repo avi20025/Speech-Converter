@@ -34,7 +34,7 @@ public class SpeechConverter
 
         transcript = gson.fromJson(postResponse.body(), Transcript.class);
 
-        System.out.println(transcript.getId());
+        // System.out.println(transcript.getId());
 
         HttpRequest getRequest = HttpRequest.newBuilder()
             .uri(new URI("https://api.assemblyai.com/v2/transcript/" + transcript.getId()))
