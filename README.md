@@ -1,7 +1,9 @@
+This program uses an API from AssemblyAI to provide a transcript of a sample audio file (harvard.mp3)
+
+
 Json Request:
 
 {"audio_url":"https://github.com/avi20025/Speech-Converter/blob/main/harvard.mp3?raw\u003dtrue"}
-
 
 Post Response Body:
 
